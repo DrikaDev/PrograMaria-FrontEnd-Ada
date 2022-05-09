@@ -26,7 +26,6 @@ h2{
 section{
   width:60%; 
   margin: 0 auto;
-  /* border: 1px solid red; */ 
 }
 
 section section{
@@ -53,7 +52,7 @@ img{
 }
 
 ul{
-  list-style-type:none;
+  list-style: none;
   line-height: 2;
   padding-left: 0;
 }
@@ -85,7 +84,7 @@ a{
 
 button{
   background: #41f341;
-  border solid: 1px transparent;
+  border: solid 1px transparent;
   padding: 2px 20px;
   border-radius: 3px;
 }
