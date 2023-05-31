@@ -1,8 +1,8 @@
 # Site.Ada
 📖Projeto feito através das aulas do curso EuProgrAmo do PrograMaria.\
-💻Projeto realizado no Replit e finalizado em 10 de março de 2022.\
-😊Estou muito orgulhosa e feliz pois este é o primeiro projeto que fiz!\
-💕Foi muito gratificando quebrar a maldição do "Hello Word" e poder dar início no aprendizado de HTML e CSS e um pouquinho de JavaScript.
+💻Foi realizado no Replit finalizado no dia 10 de março de 2022.\
+😊Estou muito orgulhosa e feliz pois este foi o meu 1º HELLO WORLD!\
+💕Foi muito gratificando quebrar a maldição do "Hello Word" e dar início no aprendizado de HTML e CSS e um pouquinho de JavaScript.
 
 <h2> Linguagens utilizadas: </h2>
 
