@@ -1,4 +1,4 @@
-# Site.Ada
+# PrograMaria FrontEnd Ada
 📖Projeto feito através das aulas do curso EuProgrAmo do PrograMaria.\
 💻Foi realizado no Replit finalizado no dia 10 de março de 2022.\
 😊Estou muito orgulhosa e feliz pois este foi o meu 1º HELLO WORLD!\
