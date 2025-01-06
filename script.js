@@ -8,8 +8,4 @@ function validaFormulario(){
   }else{
     alert("Por favor, preencha os campos nome, email e telefone!");
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> fe2144c38184d1a112afb5a1303fd458e00ab779
